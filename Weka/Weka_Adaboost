@@ -1,0 +1,282 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AdaBoostM1 -P 100 -S 1 -I 10 -W weka.classifiers.trees.DecisionStump
+Relation:     weka.datagenerators.classifiers.classification.RDG1-S_1_-n_100_-a_10_-c_2_-N_0_-I_0_-M_1_-R_10-weka.filters.unsupervised.instance.Randomize-S42
+Instances:    100
+Attributes:   11
+              a0
+              a1
+              a2
+              a3
+              a4
+              a5
+              a6
+              a7
+              a8
+              a9
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AdaBoostM1: Base classifiers and their weights: 
+
+Decision Stump
+
+Classifications
+
+a5 = false : c0
+a5 != false : c1
+a5 is missing : c0
+
+Class distributions
+
+a5 = false
+c0	c1	
+0.9545454545454546	0.045454545454545456	
+a5 != false
+c0	c1	
+0.42857142857142855	0.5714285714285714	
+a5 is missing
+c0	c1	
+0.66	0.34	
+
+
+Weight: 1.05
+
+Decision Stump
+
+Classifications
+
+a3 = false : c0
+a3 != false : c0
+a3 is missing : c0
+
+Class distributions
+
+a3 = false
+c0	c1	
+0.8651102464332037	0.13488975356679636	
+a3 != false
+c0	c1	
+0.6652211621856029	0.33477883781439716	
+a3 is missing
+c0	c1	
+0.7453222453222454	0.25467775467775466	
+
+
+Weight: 1.07
+
+Decision Stump
+
+Classifications
+
+a3 = false : c0
+a3 != false : c1
+a3 is missing : c1
+
+Class distributions
+
+a3 = false
+c0	c1	
+0.686666694679872	0.3133333053201279	
+a3 != false
+c0	c1	
+0.40439918481009385	0.5956008151899063	
+a3 is missing
+c0	c1	
+0.49999999999999994	0.5000000000000001	
+
+
+Weight: 0.52
+
+Decision Stump
+
+Classifications
+
+a5 = false : c0
+a5 != false : c1
+a5 is missing : c0
+
+Class distributions
+
+a5 = false
+c0	c1	
+0.7735114748080508	0.22648852519194912	
+a5 != false
+c0	c1	
+0.4602109723529181	0.5397890276470819	
+a5 is missing
+c0	c1	
+0.5435807073654499	0.4564192926345501	
+
+
+Weight: 0.41
+
+Decision Stump
+
+Classifications
+
+a8 = false : c1
+a8 != false : c0
+a8 is missing : c0
+
+Class distributions
+
+a8 = false
+c0	c1	
+0.45166766501332944	0.5483323349866706	
+a8 != false
+c0	c1	
+0.7030534020616386	0.2969465979383614	
+a8 is missing
+c0	c1	
+0.5952506348314284	0.40474936516857163	
+
+
+Weight: 0.56
+
+Decision Stump
+
+Classifications
+
+a9 = true : c0
+a9 != true : c0
+a9 is missing : c0
+
+Class distributions
+
+a9 = true
+c0	c1	
+0.501062078493434	0.4989379215065661	
+a9 != true
+c0	c1	
+0.6703019773823917	0.3296980226176083	
+a9 is missing
+c0	c1	
+0.5819167477538454	0.41808325224615467	
+
+
+Weight: 0.33
+
+Decision Stump
+
+Classifications
+
+a9 = false : c0
+a9 != false : c1
+a9 is missing : c1
+
+Class distributions
+
+a9 = false
+c0	c1	
+0.593608820530488	0.40639117946951203	
+a9 != false
+c0	c1	
+0.41911718286697364	0.5808828171330263	
+a9 is missing
+c0	c1	
+0.4999999999999998	0.5000000000000002	
+
+
+Weight: 0.35
+
+Decision Stump
+
+Classifications
+
+a2 = false : c0
+a2 != false : c1
+a2 is missing : c0
+
+Class distributions
+
+a2 = false
+c0	c1	
+0.5826598138744362	0.4173401861255637	
+a2 != false
+c0	c1	
+0.4129210555783799	0.5870789444216202	
+a2 is missing
+c0	c1	
+0.5065257397981773	0.49347426020182267	
+
+
+Weight: 0.34
+
+Decision Stump
+
+Classifications
+
+a5 = false : c0
+a5 != false : c1
+a5 is missing : c1
+
+Class distributions
+
+a5 = false
+c0	c1	
+0.6065227477981406	0.39347725220185925	
+a5 != false
+c0	c1	
+0.45590250648421876	0.5440974935157812	
+a5 is missing
+c0	c1	
+0.49774934543997545	0.5022506545600246	
+
+
+Weight: 0.25
+
+Decision Stump
+
+Classifications
+
+a3 = false : c0
+a3 != false : c1
+a3 is missing : c0
+
+Class distributions
+
+a3 = false
+c0	c1	
+0.641402757443622	0.35859724255637804	
+a3 != false
+c0	c1	
+0.47816979502068646	0.5218302049793136	
+a3 is missing
+c0	c1	
+0.5254341300988963	0.4745658699011038	
+
+
+Weight: 0.23
+
+Number of performed Iterations: 10
+
+
+Time taken to build model: 0.04 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          76               76      %
+Incorrectly Classified Instances        24               24      %
+Kappa statistic                          0.4728
+Mean absolute error                      0.2876
+Root mean squared error                  0.3878
+Relative absolute error                 63.8511 %
+Root relative squared error             81.7542 %
+Total Number of Instances              100     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.803    0.324    0.828      0.803    0.815      0.473    0.844     0.912     c0
+                 0.676    0.197    0.639      0.676    0.657      0.473    0.844     0.743     c1
+Weighted Avg.    0.760    0.280    0.764      0.760    0.762      0.473    0.844     0.854     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 53 13 |  a = c0
+ 11 23 |  b = c1
