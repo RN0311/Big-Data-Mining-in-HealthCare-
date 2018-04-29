@@ -1,0 +1,6776 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SMO -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007" -calibrator "weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4"
+Relation:     genes
+Instances:    37
+Attributes:   1
+              SPOCK1
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: EMX2, TLR9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, MNX1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SEMA3G
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, GPR77
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, COX7B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: EMX2, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, MNX1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SEMA3G
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, GPR77
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, COX7B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TLR9, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SEMA3G
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, GPR77
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, COX7B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MNX1, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, GPR77
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, COX7B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SEMA3G, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, COX7B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GPR77, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, NODAL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: COX7B, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, TNFSF4
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NODAL, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, UBE2D3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TNFSF4, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, PIP5K1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: UBE2D3, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, NEIL1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PIP5K1B, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, HUS1B
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NEIL1, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, POLD3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: HUS1B, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, RPL39
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: POLD3, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, CTSG
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RPL39, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, DSC2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CTSG, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, MAP3K13
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: DSC2, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, FUT10
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: MAP3K13, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, IL10RB
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FUT10, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, CLDN7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: IL10RB, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, SCG2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CLDN7, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, FGFR3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SCG2, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, TGFB3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FGFR3, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, CXCL5
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: TGFB3, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, ADM
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: CXCL5, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, PGLYRP2
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ADM, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, BEST1
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: PGLYRP2, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, ZNF830
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: BEST1, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, SOX9
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: ZNF830, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, SELS
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SOX9, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, NKX2-3
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SELS, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, STK38
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: NKX2-3, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: STK38, GHSR
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: STK38, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: STK38, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: STK38, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: STK38, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GHSR, RXRA
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GHSR, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GHSR, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: GHSR, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RXRA, FABP7
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RXRA, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: RXRA, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FABP7, SLC22A16
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: FABP7, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+Classifier for classes: SLC22A16, SGK223
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+ +      -0     
+
+Number of kernel evaluations: 3 (0% cached)
+
+
+
+Time taken to build model: 5.84 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances           0                0      %
+Incorrectly Classified Instances        37              100      %
+Kappa statistic                         -0.0278
+Mean absolute error                      0.0541
+Root mean squared error                  0.1674
+Relative absolute error                101.4442 %
+Root relative squared error            101.8767 %
+Total Number of Instances               37     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.917    0.000      0.000    0.000      -0.479   0.042     0.027     EMX2
+                 0.000    0.111    0.000      0.000    0.000      -0.058   0.042     0.027     TLR9
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     MNX1
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SEMA3G
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     GPR77
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     COX7B
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     NODAL
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     TNFSF4
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     UBE2D3
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     PIP5K1B
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     NEIL1
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     HUS1B
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     POLD3
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     RPL39
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     CTSG
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     DSC2
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     MAP3K13
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     FUT10
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     IL10RB
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     CLDN7
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SCG2
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     FGFR3
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     TGFB3
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     CXCL5
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     ADM
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     PGLYRP2
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     BEST1
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     ZNF830
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SOX9
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SELS
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     NKX2-3
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     STK38
+                 0.000    0.000    ?          0.000    ?          ?        0.028     0.027     GHSR
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     RXRA
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     FABP7
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SLC22A16
+                 0.000    0.000    ?          0.000    ?          ?        0.042     0.027     SGK223
+Weighted Avg.    0.000    0.028    ?          0.000    ?          ?        0.038     0.027     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z aa ab ac ad ae af ag ah ai aj ak   <-- classified as
+  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  a = EMX2
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  b = TLR9
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  c = MNX1
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  d = SEMA3G
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  e = GPR77
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  f = COX7B
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  g = NODAL
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  h = TNFSF4
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  i = UBE2D3
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  j = PIP5K1B
+  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  k = NEIL1
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  l = HUS1B
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  m = POLD3
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  n = RPL39
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  o = CTSG
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  p = DSC2
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  q = MAP3K13
+  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  r = FUT10
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  s = IL10RB
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  t = CLDN7
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  u = SCG2
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  v = FGFR3
+  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  w = TGFB3
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  x = CXCL5
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  y = ADM
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 |  z = PGLYRP2
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | aa = BEST1
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ab = ZNF830
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ac = SOX9
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ad = SELS
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ae = NKX2-3
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | af = STK38
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ag = GHSR
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ah = RXRA
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ai = FABP7
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | aj = SLC22A16
+  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 | ak = SGK223
+
+
